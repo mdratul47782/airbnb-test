@@ -1,0 +1,78 @@
+[
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a02",
+      "userId": "64c891f1d5963d2d88def456",
+      "review": "Amazing stay with breathtaking views!"
+    },
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a03",
+      "userId": "64c891f1d5963d2d88def789",
+      "review": "Good location but Wi-Fi could be better."
+    },
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a03",
+      "userId": "64c891f1d5963d2d88def101",
+      "review": "Cozy and peaceful retreat. Loved the fireplace."
+    },
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a01",
+      "userId": "64c891f1d5963d2d88def102",
+      "review": "Beautiful place but kitchen needs better supplies."
+    },
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a04",
+      "userId": "64c891f1d5963d2d88def103",
+      "review": "Modern design but slightly overpriced."
+    },
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a01",
+      "userId": "64c891f1d5963d2d88def104",
+      "review": "Stunning city views and great amenities!"
+    },
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a02",
+      "userId": "64c891f1d5963d2d88def105",
+      "review": "Fantastic beachfront experience!"
+    },
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a05",
+      "userId": "64c891f1d5963d2d88def106",
+      "review": "Enjoyed the pool, though room service was slow."
+    },
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a05",
+      "userId": "64c891f1d5963d2d88def107",
+      "review": "Convenient location with friendly staff."
+    },
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a03",
+      "userId": "64c891f1d5963d2d88def108",
+      "review": "Quiet and comfortable. Highly recommend!"
+    },
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a04",
+      "userId": "64c891f1d5963d2d88def109",
+      "review": "Amazing hiking trails nearby. Great for nature lovers."
+    },
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a02",
+      "userId": "64c891f1d5963d2d88def110",
+      "review": "Charming and rustic, but the beds could be more comfortable."
+    },
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a01",
+      "userId": "64c891f1d5963d2d88def111",
+      "review": "Perfect for a family vacation. Kids loved the pool!"
+    },
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a05",
+      "userId": "64c891f1d5963d2d88def112",
+      "review": "Great for relaxing and unwinding. Highly peaceful."
+    },
+    {
+      "hotelId": "64c8ff8e42e4f42d9fdb6a04",
+      "userId": "64c891f1d5963d2d88def113",
+      "review": "Luxurious and elegant. Worth every penny."
+    }
+  ]
+  
